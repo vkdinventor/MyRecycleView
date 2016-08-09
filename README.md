@@ -1,2 +1,2 @@
 # MyRecycleView
-This is simple example of horizontal ListView by using RecycleView.
+This example scan available wifi network and display ssid of available wifi in a List. Listview is implemented by using RecycleView.
